@@ -56,7 +56,23 @@
     <audio data-key="75" src="sounds/tom.wav"></audio>
     <audio data-key="76" src="sounds/tink.wav"></audio>
     <script>
+    function playSound(e) {
+        // check if there is an audio element with data-key = e.keyCode ?
+        const audio = document.querySelector(`audio[data-key = "${e.keyCode}"]`);
+        const key = document.querySelector(`.key[data-key = "${e.keyCode}"]`);
+        if (!audio) return; // stop the funtion from running if one of the required key not pressed
+        audio.currentTime = 0; // set current time to 0 so that we get the sound on recursive hitting
+        audio.play();
+        key.classList.add('playing');
+    }
 
+    function removeClass(e) {
+        if (e.propertyName !== 'transform') return; //skip all other transition events
+        this.classList.remove('playing'); // 'this' is equal to whatever got called against it, so addEventListner was called against key
+    }
+    window.addEventListener("keydown", playSound);
+    const keys = document.querySelectorAll(".key");
+    keys.forEach(key => key.addEventListener('transitionend', removeClass));
     </script>
 </body>
 
