@@ -16,4 +16,5 @@ These are my solutions to [30 Day Vanilla JS Coding Challenge](https://javascrip
 |04|[Array Cardio Day 1, (filter, map, reduce, sort)](https://goelrohan6.github.io/javascript30/day04%20-%20Array%20Cardio%20Day%201/day04.html)|
 |05|[Flex Panel Gallery](https://goelrohan6.github.io/javascript30/day05%20-%20Flex%20Panel%20Gallery/day05.html)|
 |06|[Make a Type Ahead](https://goelrohan6.github.io/javascript30/day06%20-%20Type%20Ahead/day06.html)|
+|07|[Array Cardio Day 2 (some, every, find, findIndex)](https://goelrohan6.github.io/javascript30/day07%20-%20Array%20Cardio%20Day%202/day07.html)|
  
