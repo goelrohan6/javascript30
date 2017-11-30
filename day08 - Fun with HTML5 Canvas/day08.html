@@ -9,6 +9,7 @@
 <body>
     <div>
         <h2 style="display: inline-block;">Have some fun with canvas</h2>
+        <p style="display: inline-block;">Click and move your mouse over the page</p>
         <button style="display: inline-block;" id="fun">More fun</button>
     </div>
     <canvas id="draw" width="800" height="800"></canvas>
@@ -76,6 +77,14 @@
     canvas.addEventListener('mousemove', draw);
     canvas.addEventListener('mouseup', () => isDrawing = false);
     canvas.addEventListener('mouseleave', () => isDrawing = false);
+
+    // For mobile touch
+    canvas.addEventListener('touchstart', (e) => {
+        isDrawing = true;
+        [lastX, lastY] = [e.offsetX, e.offsetY];
+    });
+    canvas.addEventListener('touchmove', draw);
+    canvas.addEventListener('touchend', () => isDrawing = false);
     </script>
     <style>
     html,
