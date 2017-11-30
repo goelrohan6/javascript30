@@ -17,4 +17,5 @@ These are my solutions to [30 Day Vanilla JS Coding Challenge](https://javascrip
 |05|[Flex Panel Gallery](https://goelrohan6.github.io/javascript30/day05%20-%20Flex%20Panel%20Gallery/day05.html)|
 |06|[Make a Type Ahead](https://goelrohan6.github.io/javascript30/day06%20-%20Type%20Ahead/day06.html)|
 |07|[Array Cardio Day 2 (some, every, find, findIndex)](https://goelrohan6.github.io/javascript30/day07%20-%20Array%20Cardio%20Day%202/day07.html)|
+|08|[Fun with HTML5 Canvas](https://goelrohan6.github.io/javascript30/day08%20-%20Fun%20with%20HTML5%20Canvas/day08.html)|
  
