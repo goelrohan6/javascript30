@@ -21,4 +21,5 @@ These are my solutions to [30 Day Vanilla JS Coding Challenge](https://javascrip
 |10|[Fun with HTML5 Canvas](https://goelrohan6.github.io/javascript30/day10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/day10.html)|
 |11|[Custom Video Player](https://goelrohan6.github.io/javascript30/day11%20-%20Custom%20Video%20Player/index.html)|
 |12|[Key Sequence Detection Konami Code](https://goelrohan6.github.io/javascript30/day12%20-%20Key%20Sequence%20Detection/day12.html)|
+|12|[Slide in on Scroll](https://goelrohan6.github.io/javascript30/day13%20-%20Slide%20in%20on%20Scroll/day13.html)|
  
