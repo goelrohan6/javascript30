@@ -10,7 +10,7 @@
         display: none;
     }
 
-    @media only screen and (max-width: 1026px) {
+    @media only screen and (max-width: 1000px) {
 
         input {
             display: block;
@@ -22,18 +22,28 @@
 <body>
     <p style="text-align: center;font-size: 28px">Just type rohan and see the magic</p>
     <center>
-        <input type="text">
+        <input id="input" type="text">
     </center>
     <script>
     const pressed = [];
     const secretCode = "rohan";
-    window.addEventListener('keyup input', (e) => {
+    window.addEventListener('keyup', (e) => {
         pressed.push(e.key);
         pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length);
         if (pressed.join('').includes(secretCode)) {
             cornify_add();
         }
         console.log(pressed);
+    });
+    const input = document.getElementById('input');
+    input.addEventListener('input', (e) => {
+        console.log(e);
+        pressed.push(e.data);
+        pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length);
+        if (pressed.join('').includes(secretCode)) {
+            cornify_add();
+        }
+        // console.log(pressed);
     });
     </script>
 </body>
