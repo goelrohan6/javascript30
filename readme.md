@@ -18,9 +18,10 @@ These are my solutions to [30 Day Vanilla JS Coding Challenge](https://javascrip
 |06|[Make a Type Ahead](https://goelrohan6.github.io/javascript30/day06%20-%20Type%20Ahead/day06.html)|
 |07|[Array Cardio Day 2 (some, every, find, findIndex)](https://goelrohan6.github.io/javascript30/day07%20-%20Array%20Cardio%20Day%202/day07.html)|
 |08|[Fun with HTML5 Canvas](https://goelrohan6.github.io/javascript30/day08%20-%20Fun%20with%20HTML5%20Canvas/day08.html)|
+|08|Dev Tools Domination|
 |10|[Fun with HTML5 Canvas](https://goelrohan6.github.io/javascript30/day10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/day10.html)|
 |11|[Custom Video Player](https://goelrohan6.github.io/javascript30/day11%20-%20Custom%20Video%20Player/index.html)|
 |12|[Key Sequence Detection Konami Code](https://goelrohan6.github.io/javascript30/day12%20-%20Key%20Sequence%20Detection/day12.html)|
 |13|[Slide in on Scroll](https://goelrohan6.github.io/javascript30/day13%20-%20Slide%20in%20on%20Scroll/day13.html)|
-|14|[JavaScript References VS Copying](https://goelrohan6.github.io/javascript30/day14%20-%20JavaScript%20References%20VS%20Copying/day14.html)|
+|14|JavaScript References VS Copying|
  
