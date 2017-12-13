@@ -22,4 +22,5 @@ These are my solutions to [30 Day Vanilla JS Coding Challenge](https://javascrip
 |11|[Custom Video Player](https://goelrohan6.github.io/javascript30/day11%20-%20Custom%20Video%20Player/index.html)|
 |12|[Key Sequence Detection Konami Code](https://goelrohan6.github.io/javascript30/day12%20-%20Key%20Sequence%20Detection/day12.html)|
 |13|[Slide in on Scroll](https://goelrohan6.github.io/javascript30/day13%20-%20Slide%20in%20on%20Scroll/day13.html)|
+|14|[JavaScript References VS Copying](https://goelrohan6.github.io/javascript30/day14%20-%20JavaScript%20References%20VS%20Copying/day14.html)|
  
