@@ -24,4 +24,5 @@ These are my solutions to [30 Day Vanilla JS Coding Challenge](https://javascrip
 |12|[Key Sequence Detection Konami Code](https://goelrohan6.github.io/javascript30/day12%20-%20Key%20Sequence%20Detection/day12.html)|
 |13|[Slide in on Scroll](https://goelrohan6.github.io/javascript30/day13%20-%20Slide%20in%20on%20Scroll/day13.html)|
 |14|JavaScript References VS Copying|
+|15|[LocalStorage and Event Delegation](https://goelrohan6.github.io/javascript30/day15%20-%20LocalStorage%20and%20Event%20Delegation/day15.html)|
  
