@@ -26,4 +26,5 @@ These are my solutions to [30 Day Vanilla JS Coding Challenge](https://javascrip
 |14|JavaScript References VS Copying|
 |15|[LocalStorage and Event Delegation](https://goelrohan6.github.io/javascript30/day15%20-%20LocalStorage%20and%20Event%20Delegation/day15.html)|
 |16|[Mouse Move Shadow](https://goelrohan6.github.io/javascript30/day16%20-%20Mouse%20Move%20Shadow/day16.html)|
+|17| Sort Without Articles|
  
