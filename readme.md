@@ -28,5 +28,5 @@ These are my solutions to [30 Day Vanilla JS Coding Challenge](https://javascrip
 |16|[Mouse Move Shadow](https://goelrohan6.github.io/javascript30/day16%20-%20Mouse%20Move%20Shadow/day16.html)|
 |17| Sort Without Articles|
 |18| Adding Up Times with Reduce|
-|19|[Webcam Fun](https://goelrohan6.github.io/javascript30/day19%20-%20Webcam%20Fun/day19.html)|
+|19|[Unreal Webcam Fun](https://goelrohan6.github.io/javascript30/day19%20-%20Webcam%20Fun/day19.html)|
  
