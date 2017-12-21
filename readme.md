@@ -30,4 +30,5 @@ These are my solutions to [30 Day Vanilla JS Coding Challenge](https://javascrip
 |18| Adding Up Times with Reduce|
 |19|[Unreal Webcam Fun](https://goelrohan6.github.io/javascript30/day19%20-%20Webcam%20Fun/day19.html)|
 |20|[Speech Detection](https://goelrohan6.github.io/javascript30/day20%20-%20Speech%20Detection/day20.html)|
+|21|[Geolocation based spedometer and compass](https://goelrohan6.github.io/javascript30/day21%20-%20Geolocation/day21.html)|
  
