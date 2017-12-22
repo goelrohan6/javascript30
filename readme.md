@@ -32,4 +32,5 @@ These are my solutions to [30 Day Vanilla JS Coding Challenge](https://javascrip
 |20|[Speech Detection](https://goelrohan6.github.io/javascript30/day20%20-%20Speech%20Detection/day20.html)|
 |21|[Geolocation based spedometer and compass](https://goelrohan6.github.io/javascript30/day21%20-%20Geolocation/day21.html)|
 |22|[Follow Along Link Highlighter](https://goelrohan6.github.io/javascript30/day22%20-%20Follow%20Along%20Link%20Highlighter/day22.html)|
+|23|[Speech Synthesis](https://goelrohan6.github.io/javascript30/day23%20-%20Speech%20Synthesis/day23.html)|
  
