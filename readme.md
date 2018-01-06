@@ -35,4 +35,5 @@ These are my solutions to [30 Day Vanilla JS Coding Challenge](https://javascrip
 |23|[Speech Synthesis](https://goelrohan6.github.io/javascript30/day23%20-%20Speech%20Synthesis/day23.html)|
 |24|[Sticky Nav](https://goelrohan6.github.io/javascript30/day24%20-%20Sticky%20Nav/day24.html)|
 |25|[Event Capture, Propagation, Bubbling and Once]|
+|26|[Stripe Follow Along Nav](https://goelrohan6.github.io/javascript30/day26%20-%20Stripe%20Follow%20Along%20Nav/day26.html)|
  
